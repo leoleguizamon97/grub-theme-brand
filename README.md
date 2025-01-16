@@ -38,6 +38,9 @@ Con los temas disponibles solo es necesario copiar los archivos de la carpeta a 
 **ASUS-GRUB**
 ![ASUS](ASUS/background.png)
 
+**Default-GRUB**
+![Default](Theme/background.png)
+
 ## 
 - Tema original: [[Hyperfluent](https://github.com/Coopydood/HyperFluent-GRUB-Theme)]
 - Default background and logo Diseñado por [[FreePik](https://www.freepik.es/)]

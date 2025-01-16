@@ -1,5 +1,7 @@
 # Main options
-title-text: ""
+title-text: "Default Theme"
+title-font: "DIN 2014 Regular 23"
+title-color: "#cccccc"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 16"
@@ -20,7 +22,7 @@ terminal-border: "0"
   item_font = "DIN 2014 Regular 23"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
-  selected_item_font = "Dersu Uzala brush Regular 54"
+  selected_item_font = "DIN 2014 Regular 23"
   icon_width = 75
   icon_height = 75
   item_icon_space = 20

@@ -1,7 +1,7 @@
-# GRUB Hyperfluent OEM
+# Temas GRUB de marcas
 
 ## Introducción
-Este proyecto es un GRUB personalizado inspirado en el tema Hyperfluent [[Hyperfluent](https://github.com/Coopydood/HyperFluent-GRUB-Theme)] adaptado a fabricantes de computadoras.
+Este proyecto es un GRUB personalizado inspirado en el tema Hyperfluent [[Hyperfluent](https://github.com/Coopydood/HyperFluent-GRUB-Theme)] adaptado a fabricantes de computadoras/accesorios.
 
 Los archivos SVG sirven de plantilla que permiten crear rapidamente el fondo usando el logo de la marca que elija.
 

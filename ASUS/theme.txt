@@ -1,5 +1,5 @@
 # Main options
-title-text: "Asus"
+title-text: "ASUS"
 title-font: "DIN 2014 Regular 23"
 title-color: "#cccccc"
 desktop-image: "background.png"

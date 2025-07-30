@@ -19,7 +19,7 @@ terminal-border: "0"
   top = 41%
   width = 40%
   height = 65%
-  item_font = "DIN 2014 Regular 23"
+  item_font = "URW Gothic Regular 20"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
   selected_item_font = "Dersu Uzala brush Regular 54"
@@ -41,5 +41,5 @@ terminal-border: "0"
   id = "__timeout__"
   text = "Few Seconds Away From Automatic Boot : %d..."
   color = "#cccccc"
-  font = "DIN 2014 Regular 20"
+  font = "URW Gothic Regular 20"
 }

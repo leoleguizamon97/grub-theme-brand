@@ -23,6 +23,9 @@ Con los temas disponibles solo es necesario copiar los archivos de la carpeta a 
 - ASUS
 - MSI
 - HP
+- Lenovo (Not yet)
+    - ThinkPad
+    - ThinkPadX1 Yoga
 - Default
 
 ## Plantilla
@@ -69,5 +72,13 @@ In the `Template` folder, you will find the base SVGs for the selector and UI. A
 **HP-GRUB**  
 ![HP](HP/background.png)
 
+**ThinkPad-GRUB**  
+![ThinkPad](ThinkPad/background.png)
+
+**YogaX1-GRUB**  
+![YogaX1](YOGA_X1/background.png)
+
 **Default-GRUB**  
 ![Default](Default/background.png)
+
+

@@ -78,6 +78,9 @@ In the `Template` folder, you will find the base SVGs for the selector and UI. A
 **YogaX1-GRUB**  
 ![YogaX1](YOGA_X1/background.png)
 
+**Intel-GRUB**  
+![Intel](Intel/background.png)
+
 **Default-GRUB**  
 ![Default](Default/background.png)
 

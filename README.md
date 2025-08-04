@@ -26,6 +26,7 @@ Con los temas disponibles solo es necesario copiar los archivos de la carpeta a 
 - Lenovo (Not yet)
     - ThinkPad
     - ThinkPadX1 Yoga
+    - Yoga
 - Default
 
 ## Plantilla
@@ -57,6 +58,10 @@ With the available themes, it is only necessary to copy the files from the folde
 - ASUS  
 - MSI  
 - HP  
+- Lenovo (not yet)
+    - ThinkPad
+    - ThinkPadX1 Yoga
+    - Yoga
 - Default
 
 ## Template
@@ -77,6 +82,9 @@ In the `Template` folder, you will find the base SVGs for the selector and UI. A
 
 **YogaX1-GRUB**  
 ![YogaX1](YOGA_X1/background.png)
+
+**Yoga-GRUB**
+![Yoga](Lenovo_YOGA/background.png)
 
 **Intel-GRUB**  
 ![Intel](Intel/background.png)

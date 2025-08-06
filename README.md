@@ -23,6 +23,7 @@ Con los temas disponibles solo es necesario copiar los archivos de la carpeta a 
 - ASUS
 - MSI
 - HP
+- Samsung
 - Lenovo (Not yet)
     - ThinkPad
     - ThinkPadX1 Yoga
@@ -58,6 +59,7 @@ With the available themes, it is only necessary to copy the files from the folde
 - ASUS  
 - MSI  
 - HP  
+- Samsung
 - Lenovo (not yet)
     - ThinkPad
     - ThinkPadX1 Yoga
@@ -76,6 +78,9 @@ In the `Template` folder, you will find the base SVGs for the selector and UI. A
 
 **HP-GRUB**  
 ![HP](HP/background.png)
+
+**Samsung-GRUB**
+![Samsung](Samsung/background.png)
 
 **ThinkPad-GRUB**  
 ![ThinkPad](ThinkPad/background.png)

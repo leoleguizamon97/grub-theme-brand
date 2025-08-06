@@ -1,10 +1,10 @@
 # Main options
-title-text: "Boot Options"
+title-text: ""
 title-font: "SamsungOne Regular 24"
 title-color: "#cccccc"
 desktop-image: "background.png"
 desktop-color: "#000000"
-terminal-font: "SamsungOne Regular 24"
+terminal-font: "Terminus Regular 16"
 terminal-box: "terminal_box_*.png"
 
 terminal-left: "6%"
@@ -22,7 +22,7 @@ terminal-border: "0"
   item_font = "SamsungOne Regular 24"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
-  selected_item_font = "SamsungOne Regular"
+  selected_item_font = "SamsungOne Regular 24"
   icon_width = 75
   icon_height = 75
   item_icon_space = 20
